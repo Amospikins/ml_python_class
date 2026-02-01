@@ -27,8 +27,8 @@
 # print(result)
     
 # KEYWORD ARGUMENTS
-def user_profile(name, age, city):
-    print(f"Name: {name}, Age: {age}, City: {city}")
+# def user_profile(name, age, city):
+#     print(f"Name: {name}, Age: {age}, City: {city}")
 
-user_profile(age=25, city="New York", name="Alice")
+# user_profile(age=25, city="New York", name="Alice")
     
