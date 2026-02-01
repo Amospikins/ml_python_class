@@ -1,0 +1,10 @@
+Salary Tax Calculator
+Input a salary and calculate tax:
+Salary ≤ 50,000 → No tax
+50,001 – 100,000 → 10% tax
+Above 100,000 → 20% tax
+Print the tax and final salary after tax.
+
+
+
+You should create an online repo on github for it and then upload there, make it public then send me the link
